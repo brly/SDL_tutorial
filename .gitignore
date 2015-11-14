@@ -1,0 +1,4 @@
+depend.inc
+.DS_Store
+sdl_sample
+*.o
